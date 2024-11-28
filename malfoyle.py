@@ -14,8 +14,7 @@ def banner():
     pyfiglet.print_figlet("MalFoyle")
     print("Malicious file detection system.")
     print("\n")
-    print("#> by Vivekananda Gavini (@thevgavini)")
-    print("#> http://github.com/thevgavini")
+    print("#> by Vijaya , Sravani and Aparna")
     print("-"*40)
     print("\n")
 
